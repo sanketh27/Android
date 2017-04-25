@@ -1,2 +1,2 @@
-# Edisor
+# Edwisor
 Assignments and Projects
